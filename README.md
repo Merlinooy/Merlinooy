@@ -1,10 +1,10 @@
-# Hi there 👋
+# Hello,teachers 👋
 
-# Merlinooy
+# This is Merlinooy Or you can call me by my"Pengpeng"（╹◡╹）♡
 
 AI • Photography • Anime
 
-> “Capture moments. Build intelligence.”
+> “This account is a backup of my digital life. Please do not accidentally damage it.”
 
 📷 Hasselblad X2D II  
 🖤 Leica Q3  
@@ -14,9 +14,11 @@ AI • Photography • Anime
 
 ---
 
-## 📫 Contact Me
+## 📫 Contact
 
-[![Email](https://img.shields.io/badge/Email-Merlinooy%40163.com-blue?style=for-the-badge&logo=gmail)](mailto:Merlinooy@163.com)
+<a href="mailto:Merlinooy@163.com">
+  <img src="https://img.shields.io/badge/Email-Merlinooy%40163.com-blue?style=for-the-badge&logo=gmail">
+</a>
 
 ---
 
