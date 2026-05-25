@@ -4,9 +4,9 @@
 
 AI • Photography • Anime
 
-> “This account is like an archive of my digital life.”
+> “This account is a backup of my digital life. Please don't accidentally damage it.”
 
-📷 Like photography. The equipment I currently have is Hasselblad X2D II＋XCD 2,5/90V and Leica Q3  
+📷 Like photography. The equipment I currently have is Hasselblad X2D II 100C＋XCD 2,5/90V and Leica Q3  
 💻 Computer Science  
 🌸 Anime & ACG Culture  
 🎮 Like to play various types of games on all platforms 
