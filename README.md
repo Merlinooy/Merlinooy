@@ -24,6 +24,8 @@ AI • Photography • Anime
 ## 📊 GitHub Stats
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Merlinooy&show_icons=true&theme=tokyonight)](https://github.com/Merlinooy)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Merlinooy&layout=compact&theme=tokyonight)](https://github.com/Merlinooy)
 ---
 
 ## 🌌 About Me
