@@ -23,9 +23,15 @@ AI • Photography • Anime
 
 ## 📊 GitHub Stats
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Merlinooy&show_icons=true&theme=tokyonight)](https://github.com/Merlinooy)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Merlinooy&show_icons=true&theme=tokyonight)](https://github.com/Merlinooy?tab=repositories)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Merlinooy&layout=compact&theme=tokyonight)](https://github.com/Merlinooy)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Merlinooy&layout=compact&theme=tokyonight)](https://github.com/Merlinooy?tab=repositories)
+
+---
+
+## 🚀 Featured Project
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Merlinooy&repo=仓库名&theme=tokyonight)](https://github.com/Merlinooy/仓库名)
 ---
 
 ## 🌌 About Me
